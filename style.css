@@ -43,6 +43,9 @@ a:hover{
 color: black;
 }
 
+strong {
+    font-weight: bold;
+}
 
 /* Custom disign whit class (99% of your design) */
 
