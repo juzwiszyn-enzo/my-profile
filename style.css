@@ -4,7 +4,7 @@ background-color: #F7F9FC;
 color: 	#575F7D;
 font-family: "Lora", serif;
 font-size: 17px;
-font-weight: normal;
+font-weight: lighter;
 }
 
 h1, h2 {
@@ -41,10 +41,6 @@ font-size: 16px;
 }
 a:hover{
 color: black;
-}
-
-strong {
-    font-weight: bold;
 }
 
 /* Custom disign whit class (99% of your design) */
